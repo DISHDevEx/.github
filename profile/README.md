@@ -61,9 +61,5 @@ Welcome to DevEx
 - [Subscriber Provisioning Made Easy Using DISH Wireless API Services](https://medium.com/@DISH_DevEx/subscriber-provisioning-made-easy-using-dish-wireless-api-services-5c7f9b84f92)
 - [How DISH Wireless and Macrometa’s collaboration will make the 5G wireless network and edge more powerful and easier to program than today’s public cloud](https://medium.com/@DISH_DevEx/how-dish-wireless-and-macrometas-collaboration-will-make-the-5g-wireless-network-and-edge-more-dfd5912b263d)
 
-## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DISHDevEx)](https://github.com/DISHDevEx)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DISHDevEx&layout=compact)](https://github.com/DISHDevEx)
 
