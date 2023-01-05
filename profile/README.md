@@ -1,8 +1,8 @@
-<p align="center">
+
+Welcome to DevEx
+<p align="right">
   <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner"></a>
 </p>
-Welcome to DevEx
-
 ### 🤝 Connect with us:
 
 
