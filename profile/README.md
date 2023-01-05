@@ -3,7 +3,7 @@ Welcome to DevEx
 <p align="right">
   <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner"></a>
 </p>
-### 🤝 Connect with us:
+## 🤝 Connect with us:
 
 
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yu Shi | Medium" width="px"/></a>
