@@ -3,15 +3,14 @@ Welcome to DevEx
 <p align="right">
   <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner"></a>
 </p>
-## 🤝 Connect with us:
 
-
-<a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Yu Shi | Medium" width="px"/></a>
-<a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="Yu Shi | Medium" width="px"/></a>
+### 🤝 Connect with us:
+<a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
+<a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to us!
-  - ```devex@dish.com```
+### 💬 If you have any question/feedback, please do not hesitate to reach out to us!
+###  - ```devex@dish.com```
 
 ## 🔭 currently working on
 
