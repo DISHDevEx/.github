@@ -52,4 +52,11 @@ Welcome to DevEx
 - [How DISH Wireless and Macrometa’s collaboration will make the 5G wireless network and edge more powerful and easier to program than today’s public cloud](https://medium.com/@DISH_DevEx/how-dish-wireless-and-macrometas-collaboration-will-make-the-5g-wireless-network-and-edge-more-dfd5912b263d)
 
 
-
+```
+import pandas as pd
+import numpy as mp
+```
+```console
+import pandas as pd
+import numpy as mp
+```
