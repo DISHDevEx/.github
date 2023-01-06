@@ -1,8 +1,8 @@
 
-Something amazing is happeneing at Dish DevEx. We aim to provide and foster an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. **We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.**  
-<p align="center">
-  <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner"></a>
-</p>
+| DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. **We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.**  | <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner" width="1500"></a> |
+| --- | ---|
+
+</br>
 
 ### 🤝 Connect with us:
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
