@@ -1,5 +1,5 @@
 
-Welcome to DevEx
+Something amazing is happeneing at Dish DevEx. We aim to provide and foster an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. **We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.**  
 <p align="right">
   <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner"></a>
 </p>
@@ -9,20 +9,35 @@ Welcome to DevEx
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </br>
-### 💬 If you have any question/feedback, please do not hesitate to reach out to us!
+### 💬 Please reach out to us!
 ###  - ```devex@dish.com```
+</br>
 
-## 🔭 currently working on
+## ☄️  Self Perfecting Network Current Projects
 
--  data science
+Self Perfecting Dish's 5g network means to optimize and parameterize the entire network topology (Radios, Fiber Cables, Containerized Network Functions). 
+
+The end state of a network that can self perfect will enable autonomous vehicles, smart cities, and the like. With no downtime and gigabit throughput the vertical integration of technologies with the telecom network are unlimited. 
+</br>
+  * **Reinforcement Learning to self perfect CNF runtime environemnts**
+    * Creating a closed loop system in which a model can self perfect an eks cluster running network functions
+    * Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
+    * Continous state space and action space
+</br>
+* **Unsupervised Timeseries Anomaly Detection at terabyte scale** 
+  * Bidirectional LSTM Autoencoder
+  * PCA
+  * FFT
+* **Ingesting terabyte scales of data from a data mesh**
+  * Using EMR Serverless/Clusters + Pyspark to read terabytes of data and train models
+
+## 🌋   Currently Learning
+
+- How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
 
 
-## 🌱 currently learning
 
-- reinforcenment learning
-
-
-## 💼 Technologies
+## 🧪 Technologies
 
 
 
