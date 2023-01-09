@@ -6,6 +6,15 @@
   </tr>
 </table>
 
+<table border=none cellspacing=none cellpadding=none cellspacing=none border-spacing=0>
+    <tr>
+        <td><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
+        <td>DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
+    </tr>
+</table>
+
+
+
 ### 🤝 Connect with us:
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
