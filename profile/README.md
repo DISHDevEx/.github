@@ -28,7 +28,6 @@ The end state of a network that can self perfect will enable autonomous vehicles
     * Creating a closed loop system in which a model can self perfect an eks cluster running network functions
     * Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
     * Continous state space and action space
-</br>
 * **Unsupervised Timeseries Anomaly Detection at terabyte scale** 
   * Bidirectional LSTM Autoencoder
   * PCA
