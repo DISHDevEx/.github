@@ -1,6 +1,16 @@
+<style>
+td, tr {
+   border: none!important;
+}
+</style>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
+    <td>DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
+</td>
+  </tr>
+</table>
 
-| DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. **We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.** | <a href="http://developer.dishwireless.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" alt="my banner" width="500"></a> |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 ### 🤝 Connect with us:
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
@@ -48,3 +58,11 @@ The end state of a network that can self perfect will enable autonomous vehicles
 - [Coding with connectivity: Using the new DISH network APIs](https://medium.com/@DISH_DevEx/coding-with-connectivity-using-the-new-dish-network-apis-f3c69f43fad4)
 - [Subscriber Provisioning Made Easy Using DISH Wireless API Services](https://medium.com/@DISH_DevEx/subscriber-provisioning-made-easy-using-dish-wireless-api-services-5c7f9b84f92)
 - [How DISH Wireless and Macrometa’s collaboration will make the 5G wireless network and edge more powerful and easier to program than today’s public cloud](https://medium.com/@DISH_DevEx/how-dish-wireless-and-macrometas-collaboration-will-make-the-5g-wireless-network-and-edge-more-dfd5912b263d)
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
+    <td>DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. **We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.**
+</td>
+  </tr>
+</table>
