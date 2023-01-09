@@ -1,15 +1,8 @@
-<style>
-td, tr {
-   border: none!important;
-}
-</style>
-
-
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
-    <td>DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
-</td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
+    <td style="border: none;">DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
+</td >
   </tr>
 </table>
 
