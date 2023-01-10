@@ -7,7 +7,8 @@
   </tr>
 
 </table>
-<table border=none cellspacing=none cellpadding=none cellspacing=none border-spacing=0>
+
+<table>
     <tr>
         <td><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
         <td>DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
@@ -20,7 +21,6 @@
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-</br>
 ### 💬 Please reach out to us!
  >devex@dish.com
 ## ☄️  Self Perfecting Network Current Projects
@@ -31,7 +31,6 @@ The end state of a network that can self perfect will enable autonomous vehicles
     * Creating a closed loop system in which a model can self perfect an eks cluster running network functions
     * Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
     * Continous state space and action space
-</br>
 * **Unsupervised Timeseries Anomaly Detection at terabyte scale** 
   * Bidirectional LSTM Autoencoder
   * PCA
