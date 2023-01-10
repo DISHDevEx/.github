@@ -2,8 +2,8 @@
 ### 🤝 Connect with us:
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
 <a href="https://www.linkedin.com/company/dish-network/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
-<a href="https://www.twitter.com/dish_devex"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" width="px"/></a>
-
+<a href="https://www.twitter.com/dish_devex"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" width="px"/></a>  
+</br>
 ### 💬 Please reach out to us!
  >devex@dish.com
 ## ☄️  Self Perfecting Network Current Projects
@@ -20,8 +20,6 @@ The end state of a network that can self perfect will enable autonomous vehicles
   * FFT
 * **Ingesting terabyte scales of data from a data mesh**
   * Using EMR Serverless/Clusters + Pyspark to read terabytes of data and train models
-## 🌋   Currently Learning
-- How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
 ## 🌋   Currently Learning
 - How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
 ## 🧪 Technologies
