@@ -1,11 +1,12 @@
-<table style="border-collapse: collapse; border: none;">
+<font size="5">
+<table style="border-collapse: collapse; border: none;"; width="100%">
   <tr style="border: none;">
     <td style="border: none;"><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
     <td style="border: none;">DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
 </td >
   </tr>
-</table>
 
+</table>
 <table border=none cellspacing=none cellpadding=none cellspacing=none border-spacing=0>
     <tr>
         <td><img src="https://raw.githubusercontent.com/DISHDevEx/.github/main/profile/icons/devex.png" width="1500" /></td>
@@ -26,20 +27,19 @@
 Self Perfecting Dish's 5g network means to optimize and parameterize the entire network topology (Radios, Fiber Cables, Containerized Network Functions).
 The end state of a network that can self perfect will enable autonomous vehicles, smart cities, and the like. With no downtime and gigabit throughput the vertical integration of technologies with the telecom network are unlimited. 
 </br>
-> Reinforcement Learning to self perfect CNF runtime environemnts
-> 
->> Creating a closed loop system in which a model can self perfect an eks cluster running network functions
-> 
->> Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
-> 
->>Continous state space and action space
-> 
+* **Reinforcement Learning to self perfect CNF runtime environemnts**
+    * Creating a closed loop system in which a model can self perfect an eks cluster running network functions
+    * Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
+    * Continous state space and action space
+</br>
 * **Unsupervised Timeseries Anomaly Detection at terabyte scale** 
   * Bidirectional LSTM Autoencoder
   * PCA
   * FFT
 * **Ingesting terabyte scales of data from a data mesh**
   * Using EMR Serverless/Clusters + Pyspark to read terabytes of data and train models
+## 🌋   Currently Learning
+- How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
 ## 🌋   Currently Learning
 - How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
 ## 🧪 Technologies
