@@ -26,10 +26,14 @@
 Self Perfecting Dish's 5g network means to optimize and parameterize the entire network topology (Radios, Fiber Cables, Containerized Network Functions).
 The end state of a network that can self perfect will enable autonomous vehicles, smart cities, and the like. With no downtime and gigabit throughput the vertical integration of technologies with the telecom network are unlimited. 
 </br>
-  * **Reinforcement Learning to self perfect CNF runtime environemnts**
-    * Creating a closed loop system in which a model can self perfect an eks cluster running network functions
-    * Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
-    * Continous state space and action space
+> Reinforcement Learning to self perfect CNF runtime environemnts
+> 
+>> Creating a closed loop system in which a model can self perfect an eks cluster running network functions
+> 
+>> Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
+> 
+>>Continous state space and action space
+> 
 * **Unsupervised Timeseries Anomaly Detection at terabyte scale** 
   * Bidirectional LSTM Autoencoder
   * PCA
