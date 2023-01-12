@@ -1,4 +1,4 @@
-### DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.
+<font size="3">DISH DEVEX: Something amazing is happening. We are building an open source community for machine learning solutions to cloud native 5g networks. Help us work on bleeding edge technologies that will enable the fourth industrial revolution. This community wil integrate machine learning to a cloud based 5g network that is fully parametereized and catalogs all of its data sources. We would like to invite every reader and person with interest in this space to collaborate and share ideas/code.</font>
 ### 🤝 Connect with us:
 <a href="https://medium.com/@DISH_DevEx"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" width="px"/></a>
 <a href="https://www.linkedin.com/company/dish-network/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=" alt="linkedin" width="px"/></a>
@@ -7,9 +7,10 @@
 ### 💬 Please reach out to us!
  >devex@dish.com
 ## ☄️  Self Perfecting Network Current Projects
+<font size="3">
+
 Self Perfecting Dish's 5g network means to optimize and parameterize the entire network topology (Radios, Fiber Cables, Containerized Network Functions).
-The end state of a network that can self perfect will enable autonomous vehicles, smart cities, and the like. With no downtime and gigabit throughput the vertical integration of technologies with the telecom network are unlimited. 
-</br>
+The end state of a network that can self perfect will enable autonomous vehicles, smart cities, and the like. With no downtime and gigabit throughput the vertical integration of technologies with the telecom network are unlimited.
 * **Reinforcement Learning to self perfect CNF runtime environemnts**
     * Creating a closed loop system in which a model can self perfect an eks cluster running network functions
     * Evaluating Deep Q networks, Monte Carlo CounterFactual Regret Minimization, TreeSearch and others
@@ -20,8 +21,14 @@ The end state of a network that can self perfect will enable autonomous vehicles
   * FFT
 * **Ingesting terabyte scales of data from a data mesh**
   * Using EMR Serverless/Clusters + Pyspark to read terabytes of data and train models
+</font>
+
 ## 🌋   Currently Learning
+<font size="3">
+
 - How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
+</font>
+
 ## 🧪 Technologies
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
