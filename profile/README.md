@@ -26,7 +26,7 @@ The end state of a network that can self perfect will enable autonomous vehicles
 ## 🌋   Currently Learning
 <font size="3">
 
-- How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal paremeters)
+- How to parameterize EKS Clusters (Helm Charts, Configmaps, kernal parameters)
 </font>
 
 ## 🧪 Technologies
